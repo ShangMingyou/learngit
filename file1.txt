@@ -1,1 +1,2 @@
 this is file1.txt
+this is the second row of file1.txt
